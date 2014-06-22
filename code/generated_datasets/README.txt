@@ -1,0 +1,1 @@
+In this folder are stored the different datasets generated from the consumption of every house

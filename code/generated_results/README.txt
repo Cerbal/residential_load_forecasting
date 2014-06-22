@@ -1,0 +1,1 @@
+In this folder are stored the prediction realized by the different java programs
